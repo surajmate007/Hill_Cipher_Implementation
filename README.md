@@ -11,6 +11,6 @@ Below are the details of this Project.
    
 4. When we run the Problem_1.cpp file, it will ise the message.txt plaintext and using the key encrypts the plaintext into ciphertext. The encrypted ciphertext will be saved in the file cipher.txt. 
 
-----***----        For further details, please refer to **program outline.pdf** file.      ----***----
+----***----        For further details, please refer to **Solution_Description.pdf** file.      ----***----
 
 Thank You?
